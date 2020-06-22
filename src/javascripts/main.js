@@ -1,3 +1,8 @@
 import '../styles/main.scss';
+import navBar from './components/navBar/navbar';
 
-console.error('Look at her now');
+const init = () => {
+  navBar.buildNavBar();
+};
+
+init();
