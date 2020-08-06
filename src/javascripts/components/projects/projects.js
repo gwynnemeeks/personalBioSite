@@ -20,7 +20,7 @@ const createProjectCards = () => {
 </div>
     `;
   });
-  utils.printToDom('#projectCards', domString);
+  utils.printToDom('#content', domString);
 };
 
 export default { createProjectCards };
