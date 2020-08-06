@@ -1,10 +1,16 @@
 import '../styles/main.scss';
 import navBar from './components/navBar/navbar';
-import projectCards from './components/projects/projects';
+import clickEvents from './components/clickEvents/clickEvents';
+// import projectCards from './components/projects/projects';
+// import buildBio from './components/bioPiece/bio';
+// import buildTech from './components/technologies/technologies';
 
 const init = () => {
   navBar.buildNavBar();
-  projectCards.createProjectCards();
+  clickEvents.clickEvents();
+  // buildBio.buildBio();
+  // buildTech.buildTech();
+  // projectCards.createProjectCards();
 };
 
 init();
