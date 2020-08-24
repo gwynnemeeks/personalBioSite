@@ -21,7 +21,7 @@ const projects = [
     title: 'Shark Tank',
     screenshot: 'http://via.placeholder.com/100',
     description: 'Dropping fellow classmates into a shark tank to watch them get picked off one by one', // A good project description includes 'the what', 'the why', and 'the how'.
-    technologiesUsed: 'HTML, CSS, Vanilla JavaScript, Version Control with Github',
+    technologiesUsed: 'HTML, CSS, Vanilla JavaScript, React, Version Control with Github',
     available: true,
     url: 'https://github.com/gwynnemeeks/shark-tank', // Github links
     githubUrl: 'https://github.com/gwynnemeeks/shark-tank',
@@ -30,7 +30,7 @@ const projects = [
     title: 'Sports-Roster',
     screenshot: 'http://via.placeholder.com/100',
     description: 'Blood Bowl Sports Roster', // A good project description includes 'the what', 'the why', and 'the how'.
-    technologiesUsed: 'HTML, CSS, Vanilla JavaScript, Version Control with Github',
+    technologiesUsed: 'HTML, CSS, Vanilla JavaScript, React, Version Control with Github',
     available: true,
     url: 'https://github.com/gwynnemeeks/sports-roster', // Github links
     githubUrl: 'https://github.com/gwynnemeeks/sports-roster',

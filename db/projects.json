@@ -1,0 +1,38 @@
+{
+    "project1": {
+        "title": "Narnia ChatLog",
+        "screenshot": "http://via.placeholder.com/100",
+        "description": "A simple chatlog for the Pensieves and Aslan",
+        "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+        "available": true,
+        "url": "https://github.com/gwynnemeeks/chatty-delta-narnia",
+        "githubUrl": "https://github.com/gwynnemeeks/chatty-delta-narnia"
+      },
+      "project2": {
+        "title": "Gwynterist",
+        "screenshot": "http://via.placeholder.com/100",
+        "description": "An attempt to make a simplified Pinterest",
+        "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+        "available": true,
+        "url": "https://github.com/gwynnemeeks/pinterest",
+        "githubUrl": "https://github.com/gwynnemeeks/pinterest"
+      },
+      "project3":      {
+        "title": "Shark Tank",
+        "screenshot": "http://via.placeholder.com/100",
+        "description": "Dropping fellow classmates into a shark tank to watch them get picked off one by one",
+        "technologiesUsed": "HTML, CSS, Vanilla JavaScript, React, Version Control with Github",
+        "available": true,
+        "url": "https://github.com/gwynnemeeks/shark-tank",
+        "githubUrl": "https://github.com/gwynnemeeks/shark-tank"
+      },
+      "project4": {      
+        "title": "Sports-Roster",
+        "screenshot": "http://via.placeholder.com/100",
+        "description": "Blood Bowl Sports Roster",
+        "technologiesUsed": "HTML, CSS, Vanilla JavaScript, React, Version Control with Github",
+        "available": true,
+        "url": "https://github.com/gwynnemeeks/sports-roster",
+        "githubUrl": "https://github.com/gwynnemeeks/sports-roster"
+      }
+}
