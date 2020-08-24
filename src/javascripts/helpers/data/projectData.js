@@ -17,24 +17,24 @@ const projects = [
     url: 'https://github.com/gwynnemeeks/pinterest', // Github links
     githubUrl: 'https://github.com/gwynnemeeks/pinterest',
   },
-  // {
-  //   title: 'Cool Project',
-  //   screenshot: 'http://via.placeholder.com/100',
-  //   description: 'This is the best project', // A good project description includes 'the what', 'the why', and 'the how'.
-  //   technologiesUsed: 'HTML, CSS, Vanilla JavaScript, Version Control with Github',
-  //   available: true,
-  //   url: 'https://github.com/nss-evening-cohort-8/js-part-deux', // Github links
-  //   githubUrl: 'https://github.com/nss-evening-cohort-8/js-part-deux',
-  // },
-  // {
-  //   title: 'Cool Project',
-  //   screenshot: 'http://via.placeholder.com/100',
-  //   description: 'This is the best project', // A good project description includes 'the what', 'the why', and 'the how'.
-  //   technologiesUsed: 'HTML, CSS, Vanilla JavaScript, Version Control with Github',
-  //   available: true,
-  //   url: 'https://github.com/nss-evening-cohort-8/js-part-deux', // Github links
-  //   githubUrl: 'https://github.com/nss-evening-cohort-8/js-part-deux',
-  // },
+  {
+    title: 'Shark Tank',
+    screenshot: 'http://via.placeholder.com/100',
+    description: 'Dropping fellow classmates into a shark tank to watch them get picked off one by one', // A good project description includes 'the what', 'the why', and 'the how'.
+    technologiesUsed: 'HTML, CSS, Vanilla JavaScript, Version Control with Github',
+    available: true,
+    url: 'https://github.com/gwynnemeeks/shark-tank', // Github links
+    githubUrl: 'https://github.com/gwynnemeeks/shark-tank',
+  },
+  {
+    title: 'Sports-Roster',
+    screenshot: 'http://via.placeholder.com/100',
+    description: 'Blood Bowl Sports Roster', // A good project description includes 'the what', 'the why', and 'the how'.
+    technologiesUsed: 'HTML, CSS, Vanilla JavaScript, Version Control with Github',
+    available: true,
+    url: 'https://github.com/gwynnemeeks/sports-roster', // Github links
+    githubUrl: 'https://github.com/gwynnemeeks/sports-roster',
+  },
 ];
 
 const getProjects = () => projects;
