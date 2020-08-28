@@ -4,7 +4,11 @@ import './bio.scss';
 
 const buildBio = () => {
   let domString = '';
-  domString += '<h4>Personal Bio Here</h4>';
+  domString += `
+  <h4>Gwynne Meeks</h4>
+  <img src="src/img/profile.png" class="rounded float-left" alt="...">
+  <p>Personal Bio Here</p>
+  `;
   utils.printToDom('#content', domString);
 };
 
