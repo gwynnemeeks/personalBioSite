@@ -1,13 +1,11 @@
-// import firebase from 'firebase';
-// import apiKeys from './helpers/data/apiKeys.json';
-
 import '../styles/main.scss';
 import navBar from './components/navBar/navbar';
 import clickEvents from './components/clickEvents/clickEvents';
+import contactInfo from './components/contact/contact';
 
 const init = () => {
-  // firebase.initializeApp(apiKeys.firebaseConfig);
   navBar.buildNavBar();
+  contactInfo.buildContactInfo();
   clickEvents.clickEvents();
 };
 
