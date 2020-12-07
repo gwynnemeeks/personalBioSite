@@ -1,6 +1,8 @@
 #cssCard {
   display: flex;
   flex-flow: row wrap;
+  align-items: center;
+  display: inline-flex;
   margin: 10px;
 }
 
