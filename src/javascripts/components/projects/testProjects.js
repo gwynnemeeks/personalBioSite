@@ -19,8 +19,8 @@ const testProjects = () => {
             <div class="face face2">
                 <div class="content">
                     <p>${project.description}</p>
-                    <a href="#${project.url}" class="card-link">${project.title}</a>
-                    <a href="#${project.githubUrl}" class="card-link"><i class="fab fa-github fa-2x"></i></a>
+                    <a href="${project.url}" class="card-link">${project.title}</a>
+                    <a href="${project.githubUrl}" class="card-link"><i class="fab fa-github fa-2x"></i></a>
                 </div>
             </div>
         </div>
