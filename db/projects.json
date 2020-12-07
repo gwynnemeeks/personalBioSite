@@ -1,11 +1,12 @@
 {
     "project1": {
-        "title": "Narnia ChatLog",
+        "title": "Whalom Park",
         "screenshot": "http://via.placeholder.com/100",
-        "description": "A simple chatlog for the Pensieves and Aslan",
+        "description": "Employeer dashboard created for a fictionalized version of Whalom Park",
         "available": true,
-        "url": "https://github.com/gwynnemeeks/chatty-delta-narnia",
-        "githubUrl": "https://github.com/gwynnemeeks/chatty-delta-narnia"
+        "url": "https://e12-whalom-park.web.app/",
+        "githubUrl": "https://github.com/gwynnemeeks/chatty-delta-narnia",
+        "techIcons": ["fab fa-js-square fa-2x", "fab fa-html5 fa-2x", "fab fa-css3-alt fa-2x", "fab fa-sass fa-2x"]
       },
       "project2": {
         "title": "Gwynterist",
@@ -13,24 +14,17 @@
         "description": "An attempt to make a simplified Pinterest",
         "available": true,
         "url": "https://github.com/gwynnemeeks/pinterest",
-        "githubUrl": "https://github.com/gwynnemeeks/pinterest"
+        "githubUrl": "https://github.com/gwynnemeeks/pinterest",
+        "techIcons": ["fab fa-js-square fa-2x", "fab fa-html5 fa-2x", "fab fa-css3-alt fa-2x", "fab fa-sass fa-2x", "fab fa-react fa-2x"]
       },
-      "project3":      {
-        "title": "Shark Tank",
+      "project3":     {
+        "title": "Anhedonia",
         "screenshot": "http://via.placeholder.com/100",
-        "description": "Dropping fellow classmates into a shark tank to watch them get picked off one by one",
+        "description": "Fighting apathy one activity and journal entry at a time",
         "technologiesUsed": "HTML, CSS, Vanilla JavaScript, React, Version Control with Github",
         "available": true,
         "url": "https://github.com/gwynnemeeks/shark-tank",
-        "githubUrl": "https://github.com/gwynnemeeks/shark-tank"
-      },
-      "project4": {      
-        "title": "Sports-Roster",
-        "screenshot": "http://via.placeholder.com/100",
-        "description": "Blood Bowl Sports Roster",
-        "technologiesUsed": "HTML, CSS, Vanilla JavaScript, React, Version Control with Github",
-        "available": true,
-        "url": "https://github.com/gwynnemeeks/sports-roster",
-        "githubUrl": "https://github.com/gwynnemeeks/sports-roster"
-      }
+        "githubUrl": "https://github.com/gwynnemeeks/shark-tank",
+        "techIcons": ["fab fa-js-square fa-2x", "fab fa-html5 fa-2x", "fab fa-css3-alt fa-2x", "fab fa-sass fa-2x", "fab fa-react fa-2x"]
+      }  
 }

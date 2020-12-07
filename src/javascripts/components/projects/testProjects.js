@@ -20,7 +20,7 @@ const testProjects = () => {
                 <div class="content">
                     <p>${project.description}</p>
                     <a href="#${project.url}" class="card-link">${project.title}</a>
-                    <a href="#${project.githubUrl}" class="card-link">fontAwesome</a>
+                    <a href="#${project.githubUrl}" class="card-link"><i class="${project.techIcons}"></i></a>
                 </div>
             </div>
         </div>
