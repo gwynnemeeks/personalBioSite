@@ -1,5 +1,5 @@
 {
-    "project1": {
+    "project3": {
         "title": "Whalom Park",
         "screenshot": "http://via.placeholder.com/100",
         "description": "Employeer dashboard created for a fictionalized version of Whalom Park",
@@ -17,14 +17,14 @@
         "githubUrl": "https://github.com/gwynnemeeks/pinterest",
         "techIcons": ["fab fa-js-square fa-2x", "fab fa-html5 fa-2x", "fab fa-css3-alt fa-2x", "fab fa-sass fa-2x", "fab fa-react fa-2x"]
       },
-      "project3":     {
+      "project1":     {
         "title": "Anhedonia",
         "screenshot": "http://via.placeholder.com/100",
         "description": "Fighting apathy one activity and journal entry at a time",
         "technologiesUsed": "HTML, CSS, Vanilla JavaScript, React, Version Control with Github",
         "available": true,
-        "url": "https://github.com/gwynnemeeks/shark-tank",
-        "githubUrl": "https://github.com/gwynnemeeks/shark-tank",
+        "url": "https://anhedonia-9e920.web.app/",
+        "githubUrl": "https://github.com/gwynnemeeks/anhedonia",
         "techIcons": ["fab fa-js-square fa-2x", "fab fa-html5 fa-2x", "fab fa-css3-alt fa-2x", "fab fa-sass fa-2x", "fab fa-react fa-2x"]
       }  
 }
