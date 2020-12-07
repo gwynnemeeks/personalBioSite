@@ -12,10 +12,11 @@ const buildBio = () => {
   </div>
   <div class="col-md-8">
   <div class="card-body">
-  <h5 class="card-title">Developer. Musician. Martial Artist.</h5>
-  <p class="card-text">Hello! I'm a recent transplant to Nashville, TN.
-  I'm currently attending Nashville Software School to become a Full 
-  Stack Software Junior Developer because the more I learn about coding 
+  <h5 class="card-title">Writer. Martial Artist. Developer.</h5>
+  <p class="card-text">Hello World! I'm a recent transplant to Nashville, TN from
+  San Diego, CA. I attended Nashville Software School to become a Full 
+  Stack Software Developer after being introduced to coding by a family member.
+  I love the creativity it encourages in problem solving. The more I learn about coding 
   and the influence it has in our world, the more I wanted to become a 
   part of that conversation.</p>
   </div>
@@ -23,7 +24,7 @@ const buildBio = () => {
   </div>
   </div>
   `;
-  utils.printToDom('#content', domString);
+  utils.printToDom('#bio', domString);
 };
 
 export default { buildBio };

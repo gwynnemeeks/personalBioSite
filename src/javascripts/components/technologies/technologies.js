@@ -15,7 +15,7 @@ const buildTech = () => {
   </div>
 </div>
   `;
-  utils.printToDom('#content', domString);
+  utils.printToDom('#techFooter', domString);
 };
 
 export default { buildTech };

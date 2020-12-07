@@ -1,7 +1,9 @@
 .techCard {
-    background-color: lightgray;
-    flex-wrap: wrap;
-    align-content: center;
+    background-color: #333;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    display: inline-flex;
 }
 
 .fa-js-square, .fa-css3-alt, .fa-sass, .fa-html5, .fa-react {
