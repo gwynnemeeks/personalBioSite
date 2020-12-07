@@ -3,7 +3,6 @@
         "title": "Narnia ChatLog",
         "screenshot": "http://via.placeholder.com/100",
         "description": "A simple chatlog for the Pensieves and Aslan",
-        "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
         "available": true,
         "url": "https://github.com/gwynnemeeks/chatty-delta-narnia",
         "githubUrl": "https://github.com/gwynnemeeks/chatty-delta-narnia"
@@ -12,7 +11,6 @@
         "title": "Gwynterist",
         "screenshot": "http://via.placeholder.com/100",
         "description": "An attempt to make a simplified Pinterest",
-        "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
         "available": true,
         "url": "https://github.com/gwynnemeeks/pinterest",
         "githubUrl": "https://github.com/gwynnemeeks/pinterest"

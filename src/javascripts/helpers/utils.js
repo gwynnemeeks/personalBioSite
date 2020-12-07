@@ -19,8 +19,24 @@ const getProjects = () => new Promise((resolve, reject) => {
     .catch((err) => reject(err));
 });
 
+const getTech = () => new Promise((resolve, reject) => {
+  axios.get(`${baseUrl}/tech.json`)
+    .then((response) => {
+      const techObjects = response.data;
+      const tech = [];
+      if (techObjects) {
+        Object.keys(techObjects).forEach((techId) => {
+          techObjects[techId].id = techId;
+          tech.push(techObjects[techId]);
+        });
+      }
+      resolve(tech);
+    })
+    .catch((err) => reject(err));
+});
+
 const printToDom = (selector, text) => {
   $(selector).html(text);
 };
 
-export default { printToDom, getProjects };
+export default { printToDom, getProjects, getTech };
