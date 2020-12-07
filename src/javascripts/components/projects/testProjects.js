@@ -27,7 +27,7 @@ const testProjects = () => {
         </div>
             `;
       });
-      utils.printToDom('#test', domString);
+      utils.printToDom('#testProjects', domString);
     })
     .catch((err) => console.error('styling oops', err));
 };
