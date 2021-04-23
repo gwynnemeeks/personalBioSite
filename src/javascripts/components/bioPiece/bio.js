@@ -20,6 +20,7 @@ const buildBio = () => {
   and the influence it has in our world, the more I wanted to become a 
   part of that conversation.
   <br>
+  <br>
   I studied Choi Li Fut Kung Fu for seven years and bring that dedication and passion
   into all areas of my personal and professional life. Like my time at NSS, it has taught
   me how to approach large problems that require an open mind to resolve the problems
