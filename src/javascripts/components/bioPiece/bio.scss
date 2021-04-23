@@ -1,13 +1,15 @@
 .bioCard {
   background-color: lightgray;
+  flex-wrap: wrap;
+  margin-left: 5px;
 }
 
 p {
   color: black;
   font-family: serif;
-  flex-wrap: wrap;
 }
 
 img {
   margin: 5px;
+  flex-wrap: wrap;
 }
