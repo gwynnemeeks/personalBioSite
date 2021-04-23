@@ -7,10 +7,10 @@ const buildBio = () => {
   domString += `
   <div class="card mb-3 bioCard" style="max-width: 540px;">
   <div class="row no-gutters">
-  <div class="col-md-4">
+  <div class="col-md-6">
   <img src="https://i.imgur.com/1Bk3Y7G.jpg" class="card-img" alt="Gwynne Meeks">
   </div>
-  <div class="col-md-8">
+  <div class="col-md-6">
   <div class="card-body">
   <h5 class="card-title">Writer. Martial Artist. Developer.</h5>
   <p class="card-text">Hello World! I'm a recent transplant to Nashville, TN from

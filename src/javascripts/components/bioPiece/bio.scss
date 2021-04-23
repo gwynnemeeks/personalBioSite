@@ -1,7 +1,6 @@
 .bioCard {
   background-color: lightgray;
-  flex-wrap: wrap;
-  margin-left: 5px;
+  display: inline-flex;
 }
 
 p {
@@ -11,5 +10,5 @@ p {
 
 img {
   margin: 5px;
-  flex-wrap: wrap;
+  display: inline;
 }
