@@ -77,5 +77,53 @@
       "fab fa-react fa-2x",
       "fab fa-python fa-2x"
     ]
+  },
+  "project6": {
+    "title": "Spelling Test",
+    "screenshot": "http://via.placeholder.com/100",
+    "description": "Graded Spelling Test",
+    "technologiesUsed": "HTML, CSS, JavaScript, Vue, Version Control with Github",
+    "available": true,
+    "url": "",
+    "githubUrl": "",
+    "techIcons": [
+      "fab fa-js-square fa-2x",
+      "fab fa-html5 fa-2x",
+      "fab fa-css3-alt fa-2x",
+      "fab fa-sass fa-2x",
+      "fab fa-vuejs fa-2x"
+    ]
+  },
+  "project7": {
+    "title": "Movie Vuer",
+    "screenshot": "http://via.placeholder.com/100",
+    "description": "Add Movies to your movie database using an external api",
+    "technologiesUsed": "HTML, CSS, JavaScript, Vue, Version Control with Github",
+    "available": true,
+    "url": "",
+    "githubUrl": "",
+    "techIcons": [
+      "fab fa-js-square fa-2x",
+      "fab fa-html5 fa-2x",
+      "fab fa-css3-alt fa-2x",
+      "fab fa-sass fa-2x",
+      "fab fa-vuejs fa-2x"
+    ]
+  },
+  "project8": {
+    "title": "Monthly Monies",
+    "screenshot": "http://via.placeholder.com/100",
+    "description": "Personal monthly budget application",
+    "technologiesUsed": "HTML, CSS, JavaScript, Vue, Version Control with Github",
+    "available": true,
+    "url": "",
+    "githubUrl": "",
+    "techIcons": [
+      "fab fa-js-square fa-2x",
+      "fab fa-html5 fa-2x",
+      "fab fa-css3-alt fa-2x",
+      "fab fa-sass fa-2x",
+      "fab fa-vuejs fa-2x"
+    ]
   }
 }
