@@ -60,5 +60,22 @@
       "fab fa-react fa-2x",
       "fab fa-python fa-2x"
     ]
+  },
+  "project5": {
+    "title": "Kennels",
+    "screenshot": "http://via.placeholder.com/100",
+    "description": "Dashboard for Nashville Kennels",
+    "technologiesUsed": "HTML, CSS, JavaScript, React, Python, Django, SQLite, Version Control with Github",
+    "available": true,
+    "url": "",
+    "githubUrl": "",
+    "techIcons": [
+      "fab fa-js-square fa-2x",
+      "fab fa-html5 fa-2x",
+      "fab fa-css3-alt fa-2x",
+      "fab fa-sass fa-2x",
+      "fab fa-react fa-2x",
+      "fab fa-python fa-2x"
+    ]
   }
 }
