@@ -50,8 +50,8 @@
     "description": "Blood Bowl League Dashboard",
     "technologiesUsed": "HTML, CSS, JavaScript, React, Python, Django, SQLite, Version Control with Github",
     "available": true,
-    "url": "",
-    "githubUrl": "",
+    "url": "https://github.com/gwynnemeeks/nuffle-client",
+    "githubUrl": "https://github.com/gwynnemeeks/nuffle-api",
     "techIcons": [
       "fab fa-js-square fa-2x",
       "fab fa-html5 fa-2x",
@@ -67,8 +67,8 @@
     "description": "Dashboard for Nashville Kennels",
     "technologiesUsed": "HTML, CSS, JavaScript, React, Python, Django, SQLite, Version Control with Github",
     "available": true,
-    "url": "",
-    "githubUrl": "",
+    "url": "https://github.com/gwynnemeeks/python-server",
+    "githubUrl": "https://github.com/gwynnemeeks/kennels",
     "techIcons": [
       "fab fa-js-square fa-2x",
       "fab fa-html5 fa-2x",
