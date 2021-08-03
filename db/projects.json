@@ -100,8 +100,8 @@
     "description": "Add Movies to your movie database using an external api",
     "technologiesUsed": "HTML, CSS, JavaScript, Vue, Version Control with Github",
     "available": true,
-    "url": "",
-    "githubUrl": "",
+    "url": "https://simple-movie-vue.web.app/",
+    "githubUrl": "https://github.com/gwynnemeeks/movie-vuer",
     "techIcons": [
       "fab fa-js-square fa-2x",
       "fab fa-html5 fa-2x",
