@@ -84,8 +84,8 @@
     "description": "Graded Spelling Test",
     "technologiesUsed": "HTML, CSS, JavaScript, Vue, Version Control with Github",
     "available": true,
-    "url": "",
-    "githubUrl": "",
+    "url": "https://github.com/gwynnemeeks",
+    "githubUrl": "https://github.com/gwynnemeeks/spelling-test",
     "techIcons": [
       "fab fa-js-square fa-2x",
       "fab fa-html5 fa-2x",
